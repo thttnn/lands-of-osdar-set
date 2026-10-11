@@ -1,0 +1,3232 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Fallowbrook Farmers",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/0.png"
+			}
+		},
+		{
+			"name": "Willowgrove Militia",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/1.png"
+			}
+		},
+		{
+			"name": "CW03",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/2.png"
+			}
+		},
+		{
+			"name": "CW04",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/3.png"
+			}
+		},
+		{
+			"name": "CW05",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/4.png"
+			}
+		},
+		{
+			"name": "Ostiliath's Watchers",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/5.png"
+			}
+		},
+		{
+			"name": "CW07",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/6.png"
+			}
+		},
+		{
+			"name": "CW08",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/7.png"
+			}
+		},
+		{
+			"name": "CW09",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/8.png"
+			}
+		},
+		{
+			"name": "Stunning Strike",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/9.png"
+			}
+		},
+		{
+			"name": "CW11",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/10.png"
+			}
+		},
+		{
+			"name": "Cure Wounds",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/11.png"
+			}
+		},
+		{
+			"name": "Shrine of Protection",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Artifact",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/12.png"
+			}
+		},
+		{
+			"name": "CU01",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/13.png"
+			}
+		},
+		{
+			"name": "CU02",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/14.png"
+			}
+		},
+		{
+			"name": "CU03",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/15.png"
+			}
+		},
+		{
+			"name": "CU04",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/16.png"
+			}
+		},
+		{
+			"name": "CU05",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/17.png"
+			}
+		},
+		{
+			"name": "CU06",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/18.png"
+			}
+		},
+		{
+			"name": "CU07",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/19.png"
+			}
+		},
+		{
+			"name": "CU08",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/20.png"
+			}
+		},
+		{
+			"name": "CU09",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/21.png"
+			}
+		},
+		{
+			"name": "CU10",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/22.png"
+			}
+		},
+		{
+			"name": "CU11",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/23.png"
+			}
+		},
+		{
+			"name": "CU12",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/24.png"
+			}
+		},
+		{
+			"name": "CU13",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/25.png"
+			}
+		},
+		{
+			"name": "Corrupted Villager",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Corrupted",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/26.png"
+			}
+		},
+		{
+			"name": "CB02",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/27.png"
+			}
+		},
+		{
+			"name": "Drowned Ones",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Corrupted",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/28.png"
+			}
+		},
+		{
+			"name": "CB04",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/29.png"
+			}
+		},
+		{
+			"name": "Bloodbound Entity",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/30.png"
+			}
+		},
+		{
+			"name": "CB06",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/31.png"
+			}
+		},
+		{
+			"name": "Shadow Rebirth",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/32.png"
+			}
+		},
+		{
+			"name": "CB08",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/33.png"
+			}
+		},
+		{
+			"name": "CB09",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/34.png"
+			}
+		},
+		{
+			"name": "CB10",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/35.png"
+			}
+		},
+		{
+			"name": "CB11",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/36.png"
+			}
+		},
+		{
+			"name": "CB12",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/37.png"
+			}
+		},
+		{
+			"name": "Mark of the Destroyer",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/38.png"
+			}
+		},
+		{
+			"name": "Goblin Invader",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Goblin",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/39.png"
+			}
+		},
+		{
+			"name": "Orc Child",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Orc",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/40.png"
+			}
+		},
+		{
+			"name": "Coyote Orc Soldier",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/41.png"
+			}
+		},
+		{
+			"name": "CR04",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/42.png"
+			}
+		},
+		{
+			"name": "CR05",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/43.png"
+			}
+		},
+		{
+			"name": "Goblin Rider",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Beast",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/44.png"
+			}
+		},
+		{
+			"name": "CR07",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/45.png"
+			}
+		},
+		{
+			"name": "Sandstorm",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/46.png"
+			}
+		},
+		{
+			"name": "Desert Ambush",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/47.png"
+			}
+		},
+		{
+			"name": "Burning Hands",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/48.png"
+			}
+		},
+		{
+			"name": "Adrenaline Rush",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/49.png"
+			}
+		},
+		{
+			"name": "Lightning Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/50.png"
+			}
+		},
+		{
+			"name": "CR13",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/51.png"
+			}
+		},
+		{
+			"name": "CG01",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/52.png"
+			}
+		},
+		{
+			"name": "Satyr Poets",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/53.png"
+			}
+		},
+		{
+			"name": "Brightwood Gnomes",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Gnome",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/54.png"
+			}
+		},
+		{
+			"name": "CG04",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/55.png"
+			}
+		},
+		{
+			"name": "CG05",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/56.png"
+			}
+		},
+		{
+			"name": "CG06",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/57.png"
+			}
+		},
+		{
+			"name": "CG07",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/58.png"
+			}
+		},
+		{
+			"name": "CG08",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/59.png"
+			}
+		},
+		{
+			"name": "CG09",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/60.png"
+			}
+		},
+		{
+			"name": "CG10",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/61.png"
+			}
+		},
+		{
+			"name": "Explore the Wilds",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/62.png"
+			}
+		},
+		{
+			"name": "CG12",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/63.png"
+			}
+		},
+		{
+			"name": "Strongroot Elixir",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/64.png"
+			}
+		},
+		{
+			"name": "UW01",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/65.png"
+			}
+		},
+		{
+			"name": "UW02",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/66.png"
+			}
+		},
+		{
+			"name": "Faithful of the Eternal Flame",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Priest",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/67.png"
+			}
+		},
+		{
+			"name": "UW04",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/68.png"
+			}
+		},
+		{
+			"name": "Road Bandits",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/69.png"
+			}
+		},
+		{
+			"name": "UW06",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/70.png"
+			}
+		},
+		{
+			"name": "For Numasar!",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/71.png"
+			}
+		},
+		{
+			"name": "Heroic Inspiration",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/72.png"
+			}
+		},
+		{
+			"name": "Calm Emotions",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/73.png"
+			}
+		},
+		{
+			"name": "UW10",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/74.png"
+			}
+		},
+		{
+			"name": "UU01",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/75.png"
+			}
+		},
+		{
+			"name": "UU02",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/76.png"
+			}
+		},
+		{
+			"name": "UU03",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/77.png"
+			}
+		},
+		{
+			"name": "UU04",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/78.png"
+			}
+		},
+		{
+			"name": "UU05",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/79.png"
+			}
+		},
+		{
+			"name": "UU06",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/80.png"
+			}
+		},
+		{
+			"name": "UU07",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/81.png"
+			}
+		},
+		{
+			"name": "UU08",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/82.png"
+			}
+		},
+		{
+			"name": "UU09",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/83.png"
+			}
+		},
+		{
+			"name": "UU10",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/84.png"
+			}
+		},
+		{
+			"name": "UB01",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/85.png"
+			}
+		},
+		{
+			"name": "UB02",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/86.png"
+			}
+		},
+		{
+			"name": "UB03",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/87.png"
+			}
+		},
+		{
+			"name": "UB04",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/88.png"
+			}
+		},
+		{
+			"name": "Darkness",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/89.png"
+			}
+		},
+		{
+			"name": "Split the Party",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/90.png"
+			}
+		},
+		{
+			"name": "UB07",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/91.png"
+			}
+		},
+		{
+			"name": "UB08",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/92.png"
+			}
+		},
+		{
+			"name": "UB09",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/93.png"
+			}
+		},
+		{
+			"name": "UB10",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/94.png"
+			}
+		},
+		{
+			"name": "Vulture Orc Wanderer",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Orc",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/95.png"
+			}
+		},
+		{
+			"name": "Goblin Boss",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/96.png"
+			}
+		},
+		{
+			"name": "Spider Orc Shaman",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Orc",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/97.png"
+			}
+		},
+		{
+			"name": "UR04",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/98.png"
+			}
+		},
+		{
+			"name": "UR05",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/99.png"
+			}
+		},
+		{
+			"name": "Loyalty to the Crown",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/100.png"
+			}
+		},
+		{
+			"name": "Village Massacre",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/101.png"
+			}
+		},
+		{
+			"name": "UR08",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/102.png"
+			}
+		},
+		{
+			"name": "UR09",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/103.png"
+			}
+		},
+		{
+			"name": "UR10",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/104.png"
+			}
+		},
+		{
+			"name": "UG01",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/105.png"
+			}
+		},
+		{
+			"name": "Lyara, Forest Guide",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Gnome",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/106.png"
+			}
+		},
+		{
+			"name": "UG03",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/107.png"
+			}
+		},
+		{
+			"name": "UG04",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/108.png"
+			}
+		},
+		{
+			"name": "UG05",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/109.png"
+			}
+		},
+		{
+			"name": "UG06",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/110.png"
+			}
+		},
+		{
+			"name": "Rain Dance",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/111.png"
+			}
+		},
+		{
+			"name": "Polymorph",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/112.png"
+			}
+		},
+		{
+			"name": "Festival Preparations",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/113.png"
+			}
+		},
+		{
+			"name": "UG10",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/114.png"
+			}
+		},
+		{
+			"name": "RW01",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/115.png"
+			}
+		},
+		{
+			"name": "Lord Religious Father Mathis",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Priest",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/116.png"
+			}
+		},
+		{
+			"name": "Final Assault",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/117.png"
+			}
+		},
+		{
+			"name": "RW04",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/118.png"
+			}
+		},
+		{
+			"name": "RW05",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/119.png"
+			}
+		},
+		{
+			"name": "RW06",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/120.png"
+			}
+		},
+		{
+			"name": "RU01",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/121.png"
+			}
+		},
+		{
+			"name": "RU02",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/122.png"
+			}
+		},
+		{
+			"name": "RU03",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/123.png"
+			}
+		},
+		{
+			"name": "RU04",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/124.png"
+			}
+		},
+		{
+			"name": "RU05",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/125.png"
+			}
+		},
+		{
+			"name": "RU06",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/126.png"
+			}
+		},
+		{
+			"name": "RB01",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/127.png"
+			}
+		},
+		{
+			"name": "RB02",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/128.png"
+			}
+		},
+		{
+			"name": "RB03",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/129.png"
+			}
+		},
+		{
+			"name": "RB04",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/130.png"
+			}
+		},
+		{
+			"name": "RB05",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/131.png"
+			}
+		},
+		{
+			"name": "RB06",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/132.png"
+			}
+		},
+		{
+			"name": "RR01",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/133.png"
+			}
+		},
+		{
+			"name": "RR02",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/134.png"
+			}
+		},
+		{
+			"name": "RR03",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/135.png"
+			}
+		},
+		{
+			"name": "Ready for War",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/136.png"
+			}
+		},
+		{
+			"name": "RR05",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/137.png"
+			}
+		},
+		{
+			"name": "RR06",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/138.png"
+			}
+		},
+		{
+			"name": "Thinklebob Fizzlespark",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Gnome Leader",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/139.png"
+			}
+		},
+		{
+			"name": "RG02",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/140.png"
+			}
+		},
+		{
+			"name": "RG03",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/141.png"
+			}
+		},
+		{
+			"name": "RG04",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/142.png"
+			}
+		},
+		{
+			"name": "RG05",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/143.png"
+			}
+		},
+		{
+			"name": "RG06",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/144.png"
+			}
+		},
+		{
+			"name": "MW01",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/145.png"
+			}
+		},
+		{
+			"name": "MU01",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/146.png"
+			}
+		},
+		{
+			"name": "MB01",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/147.png"
+			}
+		},
+		{
+			"name": "MR01",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/148.png"
+			}
+		},
+		{
+			"name": "MG01",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/149.png"
+			}
+		},
+		{
+			"name": "Healing Light",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/150.png"
+			}
+		},
+		{
+			"name": "Followers of the Moon",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Priest",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/151.png"
+			}
+		},
+		{
+			"name": "Wildlife Companion",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/152.png"
+			}
+		},
+		{
+			"name": "Nature's Aid",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/153.png"
+			}
+		},
+		{
+			"name": "Vaelion Duskrun",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Gnome Hero",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/154.png"
+			}
+		},
+		{
+			"name": "Melanor Calafinde",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Elf Hero",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/155.png"
+			}
+		},
+		{
+			"name": "Sacrifice Ritual",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/156.png"
+			}
+		},
+		{
+			"name": "Pale Orc",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Orc Corrupted",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/157.png"
+			}
+		},
+		{
+			"name": "Necropolis Monk",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Monk",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/158.png"
+			}
+		},
+		{
+			"name": "Passing Rites",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Instant",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/159.png"
+			}
+		},
+		{
+			"name": "Bardic Inspiration",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/160.png"
+			}
+		},
+		{
+			"name": "Valorous Inspiration",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/161.png"
+			}
+		},
+		{
+			"name": "Tassarhallian Inventor",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Gnome",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/162.png"
+			}
+		},
+		{
+			"name": "Leorio's Blueprints",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/163.png"
+			}
+		},
+		{
+			"name": "Shadow Hunters",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Beast Corrupted",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/164.png"
+			}
+		},
+		{
+			"name": "Search for the Brightstone",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/165.png"
+			}
+		},
+		{
+			"name": "Knights of the Vigil",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/166.png"
+			}
+		},
+		{
+			"name": "Reinforcements",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/167.png"
+			}
+		},
+		{
+			"name": "March to Ghor'Khan",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Instant",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/168.png"
+			}
+		},
+		{
+			"name": "Army of Kelm's Keep",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/169.png"
+			}
+		},
+		{
+			"name": "Rune of Protection",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment — Rune",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/170.png"
+			}
+		},
+		{
+			"name": "Rune of Potency",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment — Rune",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/171.png"
+			}
+		},
+		{
+			"name": "Banner of Alfarun",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Artifact",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/172.png"
+			}
+		},
+		{
+			"name": "Everemphest",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/173.png"
+			}
+		},
+		{
+			"name": "Seraphis Moonward",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Elf Hero",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/174.png"
+			}
+		},
+		{
+			"name": "Sermon of Leadership",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Enchantment — Aura",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/175.png"
+			}
+		},
+		{
+			"name": "Grand Master Azrael",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human Leader",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/176.png"
+			}
+		},
+		{
+			"name": "Wondrous Workshop",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Artifact",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/177.png"
+			}
+		},
+		{
+			"name": "Call of the Alliance",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/178.png"
+			}
+		},
+		{
+			"name": "Altar of the Stars",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Artifact — Rune",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/179.png"
+			}
+		},
+		{
+			"name": "Kaela, Master of Excavations",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Dwarf Leader",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/180.png"
+			}
+		},
+		{
+			"name": "Tharzog, the Webmaker",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Orc Leader",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/181.png"
+			}
+		},
+		{
+			"name": "CA04",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/182.png"
+			}
+		},
+		{
+			"name": "CA02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/183.png"
+			}
+		},
+		{
+			"name": "CA01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/184.png"
+			}
+		},
+		{
+			"name": "CA06",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/185.png"
+			}
+		},
+		{
+			"name": "UA01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/186.png"
+			}
+		},
+		{
+			"name": "UA02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/187.png"
+			}
+		},
+		{
+			"name": "CA05",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/188.png"
+			}
+		},
+		{
+			"name": "CA03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/189.png"
+			}
+		},
+		{
+			"name": "UA03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/190.png"
+			}
+		},
+		{
+			"name": "UA04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/191.png"
+			}
+		},
+		{
+			"name": "CL01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/192.png"
+			}
+		},
+		{
+			"name": "CL02",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/193.png"
+			}
+		},
+		{
+			"name": "CL03",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/194.png"
+			}
+		},
+		{
+			"name": "CL05",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/195.png"
+			}
+		},
+		{
+			"name": "CL04",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/196.png"
+			}
+		},
+		{
+			"name": "UL01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/197.png"
+			}
+		},
+		{
+			"name": "RX01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/198.png"
+			}
+		},
+		{
+			"name": "RX02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/199.png"
+			}
+		},
+		{
+			"name": "RX03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/200.png"
+			}
+		},
+		{
+			"name": "RX04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/201.png"
+			}
+		},
+		{
+			"name": "RX05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/202.png"
+			}
+		},
+		{
+			"name": "UX02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/203.png"
+			}
+		},
+		{
+			"name": "UX01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/204.png"
+			}
+		},
+		{
+			"name": "UX04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/205.png"
+			}
+		},
+		{
+			"name": "UX03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/206.png"
+			}
+		},
+		{
+			"name": "UX05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/207.png"
+			}
+		},
+		{
+			"name": "MX01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/208.png"
+			}
+		},
+		{
+			"name": "MX03",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/209.png"
+			}
+		},
+		{
+			"name": "MX02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/210.png"
+			}
+		},
+		{
+			"name": "MX04",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/211.png"
+			}
+		},
+		{
+			"name": "MX05",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/212.png"
+			}
+		},
+		{
+			"name": "Bento, Inspiring Combatant",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Gnome Hero",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/213.png"
+			}
+		},
+		{
+			"name": "Ignatius, Lunar Paragon",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Angel Hero",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/214.png"
+			}
+		},
+		{
+			"name": "Kogan, Vulture King",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Orc Hero",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/215.png"
+			}
+		},
+		{
+			"name": "Durgrim, Runic Sage",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Dwarf Hero",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/216.png"
+			}
+		},
+		{
+			"name": "Robermir, Fat and Fast",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/217.png"
+			}
+		},
+		{
+			"name": "Cili, Rogue Crafter",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Elf Hero",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/218.png"
+			}
+		},
+		{
+			"name": "Lord Protector Dunhold",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Leader",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/219.png"
+			}
+		},
+		{
+			"name": "Shadow Dragon",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Legendary Creature — Shadow Dragon",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/220.png"
+			}
+		},
+		{
+			"name": "Arrival of the Golden Dawn",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/221.png"
+			}
+		},
+		{
+			"name": "Gorgath, Evil Warlord",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Orc Leader",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/222.png"
+			}
+		},
+		{
+			"name": "Moonlight Blast",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/223.png"
+			}
+		},
+		{
+			"name": "Daylight",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/224.png"
+			}
+		},
+		{
+			"name": "Callum Starblade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Elf Hero",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/225.png"
+			}
+		},
+		{
+			"name": "Renown at All Costs",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Instant",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/226.png"
+			}
+		},
+		{
+			"name": "Berzerker Battleaxe",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/227.png"
+			}
+		},
+		{
+			"name": "Blood Cauldron",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Artifact",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/228.png"
+			}
+		},
+		{
+			"name": "Dwarf Runemaster",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Dwarf",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/229.png"
+			}
+		},
+		{
+			"name": "Study of Ancient Runes",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/230.png"
+			}
+		},
+		{
+			"name": "Crystal Dragon Egg",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Dragon",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/231.png"
+			}
+		},
+		{
+			"name": "Stories of Past Heroes",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/232.png"
+			}
+		},
+		{
+			"name": "Conjure Vultures",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/233.png"
+			}
+		},
+		{
+			"name": "Sacred Rite Lizard",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Dragon",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/234.png"
+			}
+		},
+		{
+			"name": "Fresh Ideas",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/235.png"
+			}
+		},
+		{
+			"name": "Cunning Blades",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/236.png"
+			}
+		},
+		{
+			"name": "Death Comes to Us All",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Instant",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/237.png"
+			}
+		},
+		{
+			"name": "Retribution for the Gone",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/238.png"
+			}
+		},
+		{
+			"name": "Source of Corruption",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Instant",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/239.png"
+			}
+		},
+		{
+			"name": "Apex Predator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Beast Corrupted",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/240.png"
+			}
+		},
+		{
+			"name": "Undaril",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Angel Beast",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://lands-of-osdar-set/sets/OSD1-files/img/241.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 RW01
+	2 Lord Religious Father Mathis
+	2 Final Assault
+	2 RW04
+	2 RW05
+	2 RW06
+	2 RU01
+	2 RU02
+	2 RU03
+	2 RU04
+	2 RU05
+	2 RU06
+	2 RB01
+	2 RB02
+	2 RB03
+	2 RB04
+	2 RB05
+	2 RB06
+	2 RR01
+	2 RR02
+	2 RR03
+	2 Ready for War
+	2 RR05
+	2 RR06
+	2 Thinklebob Fizzlespark
+	2 RG02
+	2 RG03
+	2 RG04
+	2 RG05
+	2 RG06
+	1 MW01
+	1 MU01
+	1 MB01
+	1 MR01
+	1 MG01
+	2 Banner of Alfarun
+	2 Everemphest
+	2 Seraphis Moonward
+	2 Sermon of Leadership
+	2 Grand Master Azrael
+	2 Wondrous Workshop
+	2 Call of the Alliance
+	2 Altar of the Stars
+	2 Kaela, Master of Excavations
+	2 Tharzog, the Webmaker
+	2 RX01
+	2 RX02
+	2 RX03
+	2 RX04
+	2 RX05
+	1 MX01
+	1 MX03
+	1 MX02
+	1 MX04
+	1 MX05
+	1 Bento, Inspiring Combatant
+	1 Ignatius, Lunar Paragon
+	1 Kogan, Vulture King
+	1 Durgrim, Runic Sage
+	1 Robermir, Fat and Fast
+	1 Cili, Rogue Crafter
+	1 Lord Protector Dunhold
+	1 Shadow Dragon
+	1 Arrival of the Golden Dawn
+	1 Gorgath, Evil Warlord
+	2 Undaril
+[uncommon(3)]
+	4 Shrine of Protection
+	4 UW01
+	4 UW02
+	4 Faithful of the Eternal Flame
+	4 UW04
+	4 Road Bandits
+	4 UW06
+	4 For Numasar!
+	4 Calm Emotions
+	4 UW10
+	4 UU01
+	4 UU02
+	4 UU03
+	4 UU04
+	4 UU05
+	4 UU06
+	4 UU07
+	4 UU08
+	4 UU09
+	4 UU10
+	4 UB01
+	4 UB02
+	4 UB03
+	4 UB04
+	4 Darkness
+	4 Split the Party
+	4 UB07
+	4 UB08
+	4 UB09
+	4 UB10
+	4 Vulture Orc Wanderer
+	4 Goblin Boss
+	4 Spider Orc Shaman
+	4 UR04
+	4 UR05
+	4 Loyalty to the Crown
+	4 Village Massacre
+	4 UR08
+	4 UR09
+	4 UR10
+	4 UG01
+	4 Lyara, Forest Guide
+	4 UG03
+	4 UG04
+	4 UG05
+	4 UG06
+	4 Rain Dance
+	4 Polymorph
+	4 Festival Preparations
+	4 UG10
+	4 Healing Light
+	4 Followers of the Moon
+	4 Wildlife Companion
+	4 Nature's Aid
+	4 Vaelion Duskrun
+	4 Melanor Calafinde
+	4 Sacrifice Ritual
+	4 Pale Orc
+	4 Necropolis Monk
+	4 Passing Rites
+	4 Bardic Inspiration
+	4 Valorous Inspiration
+	4 Tassarhallian Inventor
+	4 Leorio's Blueprints
+	4 Shadow Hunters
+	4 Search for the Brightstone
+	4 Knights of the Vigil
+	4 Reinforcements
+	4 March to Ghor'Khan
+	4 Army of Kelm's Keep
+	4 Rune of Protection
+	4 Rune of Potency
+	4 UA01
+	4 UA02
+	4 UA03
+	4 UA04
+	4 UL01
+	4 UX02
+	4 UX01
+	4 UX04
+	4 UX03
+	4 UX05
+	4 Moonlight Blast
+	4 Daylight
+	4 Callum Starblade
+	4 Renown at All Costs
+	4 Berzerker Battleaxe
+	4 Blood Cauldron
+	4 Dwarf Runemaster
+	4 Study of Ancient Runes
+	4 Crystal Dragon Egg
+	4 Stories of Past Heroes
+	4 Conjure Vultures
+	4 Sacred Rite Lizard
+	4 Fresh Ideas
+	4 Cunning Blades
+	4 Death Comes to Us All
+	4 Retribution for the Gone
+	4 Source of Corruption
+	4 Apex Predator
+[common(6)]
+	8 Fallowbrook Farmers
+	8 Willowgrove Militia
+	8 CW03
+	8 CW04
+	8 CW05
+	8 Ostiliath's Watchers
+	8 CW07
+	8 CW08
+	8 CW09
+	8 Stunning Strike
+	8 CW11
+	8 Cure Wounds
+	8 CU01
+	8 CU02
+	8 CU03
+	8 CU04
+	8 CU05
+	8 CU06
+	8 CU07
+	8 CU08
+	8 CU09
+	8 CU10
+	8 CU11
+	8 CU12
+	8 CU13
+	8 Corrupted Villager
+	8 CB02
+	8 Drowned Ones
+	8 CB04
+	8 Bloodbound Entity
+	8 CB06
+	8 Shadow Rebirth
+	8 CB08
+	8 CB09
+	8 CB10
+	8 CB11
+	8 CB12
+	8 Mark of the Destroyer
+	8 Goblin Invader
+	8 Orc Child
+	8 Coyote Orc Soldier
+	8 CR04
+	8 CR05
+	8 Goblin Rider
+	8 CR07
+	8 Sandstorm
+	8 Desert Ambush
+	8 Burning Hands
+	8 Adrenaline Rush
+	8 Lightning Strike
+	8 CR13
+	8 CG01
+	8 Satyr Poets
+	8 Brightwood Gnomes
+	8 CG04
+	8 CG05
+	8 CG06
+	8 CG07
+	8 CG08
+	8 CG09
+	8 CG10
+	8 Explore the Wilds
+	8 CG12
+	8 Strongroot Elixir
+	8 Heroic Inspiration
+	8 CA04
+	8 CA02
+	8 CA01
+	8 CA06
+	8 CA05
+	8 CA03
+	8 CL01
+	8 CL02
+	8 CL03
+	8 CL05
+	8 CL04
+[common | masterpiece(1)]
+	8 Fallowbrook Farmers
+	8 Willowgrove Militia
+	8 CW03
+	8 CW04
+	8 CW05
+	8 Ostiliath's Watchers
+	8 CW07
+	8 CW08
+	8 CW09
+	8 Stunning Strike
+	8 CW11
+	8 Cure Wounds
+	8 CU01
+	8 CU02
+	8 CU03
+	8 CU04
+	8 CU05
+	8 CU06
+	8 CU07
+	8 CU08
+	8 CU09
+	8 CU10
+	8 CU11
+	8 CU12
+	8 CU13
+	8 Corrupted Villager
+	8 CB02
+	8 Drowned Ones
+	8 CB04
+	8 Bloodbound Entity
+	8 CB06
+	8 Shadow Rebirth
+	8 CB08
+	8 CB09
+	8 CB10
+	8 CB11
+	8 CB12
+	8 Mark of the Destroyer
+	8 Goblin Invader
+	8 Orc Child
+	8 Coyote Orc Soldier
+	8 CR04
+	8 CR05
+	8 Goblin Rider
+	8 CR07
+	8 Sandstorm
+	8 Desert Ambush
+	8 Burning Hands
+	8 Adrenaline Rush
+	8 Lightning Strike
+	8 CR13
+	8 CG01
+	8 Satyr Poets
+	8 Brightwood Gnomes
+	8 CG04
+	8 CG05
+	8 CG06
+	8 CG07
+	8 CG08
+	8 CG09
+	8 CG10
+	8 Explore the Wilds
+	8 CG12
+	8 Strongroot Elixir
+	8 Heroic Inspiration
+	8 CA04
+	8 CA02
+	8 CA01
+	8 CA06
+	8 CA05
+	8 CA03
+	8 CL01
+	8 CL02
+	8 CL03
+	8 CL05
+	8 CL04
+[foil(1)]
+	12 Fallowbrook Farmers
+	12 Willowgrove Militia
+	12 CW03
+	12 CW04
+	12 CW05
+	12 Ostiliath's Watchers
+	12 CW07
+	12 CW08
+	12 CW09
+	12 Stunning Strike
+	12 CW11
+	12 Cure Wounds
+	6 Shrine of Protection
+	12 CU01
+	12 CU02
+	12 CU03
+	12 CU04
+	12 CU05
+	12 CU06
+	12 CU07
+	12 CU08
+	12 CU09
+	12 CU10
+	12 CU11
+	12 CU12
+	12 CU13
+	12 Corrupted Villager
+	12 CB02
+	12 Drowned Ones
+	12 CB04
+	12 Bloodbound Entity
+	12 CB06
+	12 Shadow Rebirth
+	12 CB08
+	12 CB09
+	12 CB10
+	12 CB11
+	12 CB12
+	12 Mark of the Destroyer
+	12 Goblin Invader
+	12 Orc Child
+	12 Coyote Orc Soldier
+	12 CR04
+	12 CR05
+	12 Goblin Rider
+	12 CR07
+	12 Sandstorm
+	12 Desert Ambush
+	12 Burning Hands
+	12 Adrenaline Rush
+	12 Lightning Strike
+	12 CR13
+	12 CG01
+	12 Satyr Poets
+	12 Brightwood Gnomes
+	12 CG04
+	12 CG05
+	12 CG06
+	12 CG07
+	12 CG08
+	12 CG09
+	12 CG10
+	12 Explore the Wilds
+	12 CG12
+	12 Strongroot Elixir
+	6 UW01
+	6 UW02
+	6 Faithful of the Eternal Flame
+	6 UW04
+	6 Road Bandits
+	6 UW06
+	6 For Numasar!
+	12 Heroic Inspiration
+	6 Calm Emotions
+	6 UW10
+	6 UU01
+	6 UU02
+	6 UU03
+	6 UU04
+	6 UU05
+	6 UU06
+	6 UU07
+	6 UU08
+	6 UU09
+	6 UU10
+	6 UB01
+	6 UB02
+	6 UB03
+	6 UB04
+	6 Darkness
+	6 Split the Party
+	6 UB07
+	6 UB08
+	6 UB09
+	6 UB10
+	6 Vulture Orc Wanderer
+	6 Goblin Boss
+	6 Spider Orc Shaman
+	6 UR04
+	6 UR05
+	6 Loyalty to the Crown
+	6 Village Massacre
+	6 UR08
+	6 UR09
+	6 UR10
+	6 UG01
+	6 Lyara, Forest Guide
+	6 UG03
+	6 UG04
+	6 UG05
+	6 UG06
+	6 Rain Dance
+	6 Polymorph
+	6 Festival Preparations
+	6 UG10
+	2 RW01
+	2 Lord Religious Father Mathis
+	2 Final Assault
+	2 RW04
+	2 RW05
+	2 RW06
+	2 RU01
+	2 RU02
+	2 RU03
+	2 RU04
+	2 RU05
+	2 RU06
+	2 RB01
+	2 RB02
+	2 RB03
+	2 RB04
+	2 RB05
+	2 RB06
+	2 RR01
+	2 RR02
+	2 RR03
+	2 Ready for War
+	2 RR05
+	2 RR06
+	2 Thinklebob Fizzlespark
+	2 RG02
+	2 RG03
+	2 RG04
+	2 RG05
+	2 RG06
+	1 MW01
+	1 MU01
+	1 MB01
+	1 MR01
+	1 MG01
+	6 Healing Light
+	6 Followers of the Moon
+	6 Wildlife Companion
+	6 Nature's Aid
+	6 Vaelion Duskrun
+	6 Melanor Calafinde
+	6 Sacrifice Ritual
+	6 Pale Orc
+	6 Necropolis Monk
+	6 Passing Rites
+	6 Bardic Inspiration
+	6 Valorous Inspiration
+	6 Tassarhallian Inventor
+	6 Leorio's Blueprints
+	6 Shadow Hunters
+	6 Search for the Brightstone
+	6 Knights of the Vigil
+	6 Reinforcements
+	6 March to Ghor'Khan
+	6 Army of Kelm's Keep
+	6 Rune of Protection
+	6 Rune of Potency
+	2 Banner of Alfarun
+	2 Everemphest
+	2 Seraphis Moonward
+	2 Sermon of Leadership
+	2 Grand Master Azrael
+	2 Wondrous Workshop
+	2 Call of the Alliance
+	2 Altar of the Stars
+	2 Kaela, Master of Excavations
+	2 Tharzog, the Webmaker
+	12 CA04
+	12 CA02
+	12 CA01
+	12 CA06
+	6 UA01
+	6 UA02
+	12 CA05
+	12 CA03
+	6 UA03
+	6 UA04
+	12 CL01
+	12 CL02
+	12 CL03
+	12 CL05
+	12 CL04
+	6 UL01
+	2 RX01
+	2 RX02
+	2 RX03
+	2 RX04
+	2 RX05
+	6 UX02
+	6 UX01
+	6 UX04
+	6 UX03
+	6 UX05
+	1 MX01
+	1 MX03
+	1 MX02
+	1 MX04
+	1 MX05
+	1 Bento, Inspiring Combatant
+	1 Ignatius, Lunar Paragon
+	1 Kogan, Vulture King
+	1 Durgrim, Runic Sage
+	1 Robermir, Fat and Fast
+	1 Cili, Rogue Crafter
+	1 Lord Protector Dunhold
+	1 Shadow Dragon
+	1 Arrival of the Golden Dawn
+	1 Gorgath, Evil Warlord
+	6 Moonlight Blast
+	6 Daylight
+	6 Callum Starblade
+	6 Renown at All Costs
+	6 Berzerker Battleaxe
+	6 Blood Cauldron
+	6 Dwarf Runemaster
+	6 Study of Ancient Runes
+	6 Crystal Dragon Egg
+	6 Stories of Past Heroes
+	6 Conjure Vultures
+	6 Sacred Rite Lizard
+	6 Fresh Ideas
+	6 Cunning Blades
+	6 Death Comes to Us All
+	6 Retribution for the Gone
+	6 Source of Corruption
+	6 Apex Predator
+	2 Undaril
+[wildcard(1)]
+	6 Fallowbrook Farmers
+	6 Willowgrove Militia
+	6 CW03
+	6 CW04
+	6 CW05
+	6 Ostiliath's Watchers
+	6 CW07
+	6 CW08
+	6 CW09
+	6 Stunning Strike
+	6 CW11
+	6 Cure Wounds
+	15 Shrine of Protection
+	6 CU01
+	6 CU02
+	6 CU03
+	6 CU04
+	6 CU05
+	6 CU06
+	6 CU07
+	6 CU08
+	6 CU09
+	6 CU10
+	6 CU11
+	6 CU12
+	6 CU13
+	6 Corrupted Villager
+	6 CB02
+	6 Drowned Ones
+	6 CB04
+	6 Bloodbound Entity
+	6 CB06
+	6 Shadow Rebirth
+	6 CB08
+	6 CB09
+	6 CB10
+	6 CB11
+	6 CB12
+	6 Mark of the Destroyer
+	6 Goblin Invader
+	6 Orc Child
+	6 Coyote Orc Soldier
+	6 CR04
+	6 CR05
+	6 Goblin Rider
+	6 CR07
+	6 Sandstorm
+	6 Desert Ambush
+	6 Burning Hands
+	6 Adrenaline Rush
+	6 Lightning Strike
+	6 CR13
+	6 CG01
+	6 Satyr Poets
+	6 Brightwood Gnomes
+	6 CG04
+	6 CG05
+	6 CG06
+	6 CG07
+	6 CG08
+	6 CG09
+	6 CG10
+	6 Explore the Wilds
+	6 CG12
+	6 Strongroot Elixir
+	15 UW01
+	15 UW02
+	15 Faithful of the Eternal Flame
+	15 UW04
+	15 Road Bandits
+	15 UW06
+	15 For Numasar!
+	6 Heroic Inspiration
+	15 Calm Emotions
+	15 UW10
+	15 UU01
+	15 UU02
+	15 UU03
+	15 UU04
+	15 UU05
+	15 UU06
+	15 UU07
+	15 UU08
+	15 UU09
+	15 UU10
+	15 UB01
+	15 UB02
+	15 UB03
+	15 UB04
+	15 Darkness
+	15 Split the Party
+	15 UB07
+	15 UB08
+	15 UB09
+	15 UB10
+	15 Vulture Orc Wanderer
+	15 Goblin Boss
+	15 Spider Orc Shaman
+	15 UR04
+	15 UR05
+	15 Loyalty to the Crown
+	15 Village Massacre
+	15 UR08
+	15 UR09
+	15 UR10
+	15 UG01
+	15 Lyara, Forest Guide
+	15 UG03
+	15 UG04
+	15 UG05
+	15 UG06
+	15 Rain Dance
+	15 Polymorph
+	15 Festival Preparations
+	15 UG10
+	7 RW01
+	7 Lord Religious Father Mathis
+	7 Final Assault
+	7 RW04
+	7 RW05
+	7 RW06
+	7 RU01
+	7 RU02
+	7 RU03
+	7 RU04
+	7 RU05
+	7 RU06
+	7 RB01
+	7 RB02
+	7 RB03
+	7 RB04
+	7 RB05
+	7 RB06
+	7 RR01
+	7 RR02
+	7 RR03
+	7 Ready for War
+	7 RR05
+	7 RR06
+	7 Thinklebob Fizzlespark
+	7 RG02
+	7 RG03
+	7 RG04
+	7 RG05
+	7 RG06
+	4 MW01
+	4 MU01
+	4 MB01
+	4 MR01
+	4 MG01
+	15 Healing Light
+	15 Followers of the Moon
+	15 Wildlife Companion
+	15 Nature's Aid
+	15 Vaelion Duskrun
+	15 Melanor Calafinde
+	15 Sacrifice Ritual
+	15 Pale Orc
+	15 Necropolis Monk
+	15 Passing Rites
+	15 Bardic Inspiration
+	15 Valorous Inspiration
+	15 Tassarhallian Inventor
+	15 Leorio's Blueprints
+	15 Shadow Hunters
+	15 Search for the Brightstone
+	15 Knights of the Vigil
+	15 Reinforcements
+	15 March to Ghor'Khan
+	15 Army of Kelm's Keep
+	15 Rune of Protection
+	15 Rune of Potency
+	7 Banner of Alfarun
+	7 Everemphest
+	7 Seraphis Moonward
+	7 Sermon of Leadership
+	7 Grand Master Azrael
+	7 Wondrous Workshop
+	7 Call of the Alliance
+	7 Altar of the Stars
+	7 Kaela, Master of Excavations
+	7 Tharzog, the Webmaker
+	6 CA04
+	6 CA02
+	6 CA01
+	6 CA06
+	15 UA01
+	15 UA02
+	6 CA05
+	6 CA03
+	15 UA03
+	15 UA04
+	6 CL01
+	6 CL02
+	6 CL03
+	6 CL05
+	6 CL04
+	15 UL01
+	7 RX01
+	7 RX02
+	7 RX03
+	7 RX04
+	7 RX05
+	15 UX02
+	15 UX01
+	15 UX04
+	15 UX03
+	15 UX05
+	4 MX01
+	4 MX03
+	4 MX02
+	4 MX04
+	4 MX05
+	4 Bento, Inspiring Combatant
+	4 Ignatius, Lunar Paragon
+	4 Kogan, Vulture King
+	4 Durgrim, Runic Sage
+	4 Robermir, Fat and Fast
+	4 Cili, Rogue Crafter
+	4 Lord Protector Dunhold
+	4 Shadow Dragon
+	4 Arrival of the Golden Dawn
+	4 Gorgath, Evil Warlord
+	15 Moonlight Blast
+	15 Daylight
+	15 Callum Starblade
+	15 Renown at All Costs
+	15 Berzerker Battleaxe
+	15 Blood Cauldron
+	15 Dwarf Runemaster
+	15 Study of Ancient Runes
+	15 Crystal Dragon Egg
+	15 Stories of Past Heroes
+	15 Conjure Vultures
+	15 Sacred Rite Lizard
+	15 Fresh Ideas
+	15 Cunning Blades
+	15 Death Comes to Us All
+	15 Retribution for the Gone
+	15 Source of Corruption
+	15 Apex Predator
+	7 Undaril

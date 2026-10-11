@@ -1,0 +1,3971 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>OSD1</name>
+			<longname></longname>
+			<settype>Custom</settype>
+			<releasedate>2026-10-11</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Fallowbrook Farmers</name>
+			<text>When this creature enters, search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/0.png" num="26">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Willowgrove Militia</name>
+			<text>Whenever another creature enters the battlefield under your control, Willowgrove Militia gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/1.png" num="45">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW03</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/2.png" num="18">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW04</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/3.png" num="19">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW05</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/4.png" num="20">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ostiliath&apos;s Watchers</name>
+			<text>Vigilance.
+When Ostiliath&apos;s Watcher enters the battlefield, create a 1/1 white Human creature token.</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/5.png" num="32">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW07</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/6.png" num="21">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW08</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/7.png" num="22">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW09</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/8.png" num="23">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stunning Strike</name>
+			<text>Tap target creature. It doesn&apos;t untap during its controller&apos;s next untap step.</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/9.png" num="39">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW11</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/10.png" num="24">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cure Wounds</name>
+			<text>Gain 3 life. Draw a card.</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/11.png" num="17">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shrine of Protection</name>
+			<text>At the beginning of your upkeep, gain 1 life.
+{T}{W}{W}: Target creature you control gains indestructible until end of turn.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/12.png" num="38">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU01</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/13.png" num="46">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU02</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/14.png" num="47">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU03</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/15.png" num="48">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU04</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/16.png" num="49">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU05</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/17.png" num="50">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU06</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/18.png" num="51">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU07</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/19.png" num="52">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU08</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/20.png" num="53">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU09</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/21.png" num="54">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU10</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/22.png" num="55">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU11</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/23.png" num="56">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU12</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/24.png" num="57">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU13</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/25.png" num="58">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Corrupted Villager</name>
+			<text>Sacrifice this creature: Target player loses 1 life.</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/26.png" num="85">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Corrupted</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB02</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/27.png" num="77">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Drowned Ones</name>
+			<text>{1}{B}: Return this creature from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/28.png" num="87">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Corrupted</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB04</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/29.png" num="78">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bloodbound Entity</name>
+			<text>When this creature enters, each player sacrifices a creature.</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/30.png" num="76">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB06</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/31.png" num="79">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shadow Rebirth</name>
+			<text>Return target creature or up to two target shadow creatures from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/32.png" num="96">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB08</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/33.png" num="80">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB09</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/34.png" num="81">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB10</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/35.png" num="82">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB11</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/36.png" num="83">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB12</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/37.png" num="84">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mark of the Destroyer</name>
+			<text>Enchant creature
+Enchanted creature has menace.
+When enchanted creature dies, draw a card.</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/38.png" num="88">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Goblin Invader</name>
+			<text>Haste</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/39.png" num="115">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Orc Child</name>
+			<text>Whenever this creature attacks, it gains +1/+0 if you control another orc.
+When this creature dies, gain {R}.</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/40.png" num="120">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Coyote Orc Soldier</name>
+			<text>Whenever this creature attacks, another target attacking creature gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/41.png" num="108">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR04</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/42.png" num="109">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR05</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/43.png" num="110">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Goblin Rider</name>
+			<text>Haste</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/44.png" num="116">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR07</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/45.png" num="111">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sandstorm</name>
+			<text>Choose one:
+• Target creature can&apos;t block this turn.
+• Destrou target artifact.</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/46.png" num="127">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Desert Ambush</name>
+			<text>Target creature gets +1/+2 and gains Reach until end of turn. Untap it.</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/47.png" num="113">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Burning Hands</name>
+			<text>Deal 1 damage to each creature target opponent controls.</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/48.png" num="107">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Adrenaline Rush</name>
+			<text>Target creature gets +1/+1 and gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/49.png" num="106">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lightning Strike</name>
+			<text>Deal 3 damage to any target.</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/50.png" num="117">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR13</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/51.png" num="112">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG01</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/52.png" num="137">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Satyr Poets</name>
+			<text>When this creature enters, look at the top three cards of your library. You may reveal a land card from among them and put it into your hand. Put the rest into your graveyard.</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/53.png" num="157">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brightwood Gnomes</name>
+			<text>Whenever you cast an enchantment, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/54.png" num="136">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Gnome</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG04</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/55.png" num="138">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG05</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/56.png" num="139">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG06</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/57.png" num="140">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG07</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/58.png" num="141">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG08</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/59.png" num="142">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG09</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/60.png" num="143">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG10</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/61.png" num="144">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Explore the Wilds</name>
+			<text>You may play an additional land this turn. Draw a card.</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/62.png" num="146">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG12</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/63.png" num="145">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Strongroot Elixir</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+2 and has trample.</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/64.png" num="158">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/65.png" num="40">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/66.png" num="41">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Faithful of the Eternal Flame</name>
+			<text>Whenever another creature enters the battlefield under your control, you gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/67.png" num="25">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Priest</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW04</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/68.png" num="42">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Road Bandits</name>
+			<text>When this creature enters, you may tap any number of untapped creatures you control. Put a +1/+1 counter on this creature for each creature tapped this way.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/69.png" num="33">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW06</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/70.png" num="43">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>For Numasar!</name>
+			<text>Target creature you control gains first strike and gets +X/+0 until end of turn, where X is the number of humans you control.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/71.png" num="28">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Heroic Inspiration</name>
+			<text>Enchant creature
+Sacrifice Heroic Inspiration: Exile enchanted creature, then return that card to the battlefield tapped under its owner&apos;s control.</text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/72.png" num="29">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Calm Emotions</name>
+			<text>Enchant creature
+When Calm Emotions enters, choose one —
+• Enchanted creature can&apos;t attack or block.
+• Enchanted creature has hexproof.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/73.png" num="16">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW10</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/74.png" num="44">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/75.png" num="66">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/76.png" num="67">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU03</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/77.png" num="68">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU04</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/78.png" num="69">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU05</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/79.png" num="70">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU06</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/80.png" num="71">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU07</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/81.png" num="72">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU08</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/82.png" num="73">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU09</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/83.png" num="74">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU10</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/84.png" num="75">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/85.png" num="98">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/86.png" num="99">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB03</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/87.png" num="100">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB04</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/88.png" num="101">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Darkness</name>
+			<text>Prevent all combat damage that would be dealt this turn.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/89.png" num="86">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Split the Party</name>
+			<text>Each player chooses half the creatures they control, rounded up. Destroy all creatures not chosen this way.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/90.png" num="97">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UB07</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/91.png" num="102">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB08</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/92.png" num="103">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB09</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/93.png" num="104">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB10</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/94.png" num="105">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vulture Orc Wanderer</name>
+			<text>Whenever this creature attacks, surveil 1. If a land card is put into your graveyard this way, return that card to your hand.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/95.png" num="135">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Goblin Boss</name>
+			<text>Other goblins you control gain +1+1.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/96.png" num="114">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spider Orc Shaman</name>
+			<text>{1}{R}: Create a 1/1 red Goblin creature token with haste. Activate only if an orc attacked this turn.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/97.png" num="128">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR04</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/98.png" num="129">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR05</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/99.png" num="130">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Loyalty to the Crown</name>
+			<text>Gain control of target creature until end of turn. Untap it. It gets +1/+0 and gains haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/100.png" num="118">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Village Massacre</name>
+			<text>Up to two creatures you control or up to three orc creatures you control gain +2/+0 until the end of the turn.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/101.png" num="134">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UR08</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/102.png" num="131">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR09</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/103.png" num="132">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR10</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/104.png" num="133">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/105.png" num="160">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lyara, Forest Guide</name>
+			<text>Landfall: Draw a card then discard a card.
+Whenever you cast an enchantment, gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/106.png" num="148">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Gnome</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG03</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/107.png" num="161">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG04</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/108.png" num="162">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG05</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/109.png" num="163">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG06</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/110.png" num="164">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rain Dance</name>
+			<text>Search your library for two basic land cards, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/111.png" num="151">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Polymorph</name>
+			<text>Chose one — 
+• Target creature becomes a 5/5 green Beast token creature with trample.
+• Target creature becomes a 1/1 green Rat token creature.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/112.png" num="150">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Festival Preparations</name>
+			<text>When Festival Preparations enters, you may search your library for a beast creature card, reveal it, put it into your hand, then shuffle.
+Beast creatures you control get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/113.png" num="147">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG10</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/114.png" num="165">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RW01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/115.png" num="34">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lord Religious Father Mathis</name>
+			<text>Lifelink
+At the beginning of your upkeep, gain life equal to the amount of humans you control.
+Whenever you gain life, you may put a +1/+1 counter on another target creature you control.</text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/116.png" num="30">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Priest</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Final Assault</name>
+			<text>Convoke.
+Destroy all creatures.</text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/117.png" num="27">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RW04</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/118.png" num="35">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RW05</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/119.png" num="36">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RW06</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/120.png" num="37">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RU01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/121.png" num="60">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RU02</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/122.png" num="61">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RU03</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/123.png" num="62">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RU04</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/124.png" num="63">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RU05</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/125.png" num="64">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RU06</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/126.png" num="65">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RB01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/127.png" num="90">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RB02</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/128.png" num="91">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RB03</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/129.png" num="92">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RB04</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/130.png" num="93">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RB05</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/131.png" num="94">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RB06</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/132.png" num="95">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RR01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/133.png" num="122">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RR02</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/134.png" num="123">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RR03</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/135.png" num="124">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ready for War</name>
+			<text>This spell costs {1} less to cast for each orc you control.
+After the first combat phase this turn, there is an additional combat phase. At the beginning of that combat phase, untap all creatures you control.</text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/136.png" num="121">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RR05</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/137.png" num="125">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RR06</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/138.png" num="126">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Thinklebob Fizzlespark</name>
+			<text>Enchantment spells you cast cost {1} less to cast.
+{T}{1}: Target creature you control gets +X/+X until end of turn, where X is the number of enchantments you control.</text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/139.png" num="159">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Gnome Leader</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RG02</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/140.png" num="152">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RG03</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/141.png" num="153">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RG04</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/142.png" num="154">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RG05</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/143.png" num="155">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RG06</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/144.png" num="156">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MW01</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/145.png" num="31">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MU01</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/146.png" num="59">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MB01</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/147.png" num="89">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MR01</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/148.png" num="119">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MG01</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/149.png" num="149">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Healing Light</name>
+			<text>Target creature you control gets +0/+X until end of turn, where X is the amount of life you gained this turn.
+Draw a card.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/150.png" num="190">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Followers of the Moon</name>
+			<text>Lifelink
+Whenever a creature you control becomes the target of a spell or ability, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/151.png" num="186">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Priest</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wildlife Companion</name>
+			<text>Landfall — Exile the top card of your library. You may play that card this turn. If you do, deal 1 damage to target creature.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/152.png" num="225">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nature&apos;s Aid</name>
+			<text>Deal 2 damage to any target and you gain 2 life. If a land entered the battlefield under your control this turn, deals 4 damage instead and you gain 4 life instead.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/153.png" num="200">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vaelion Duskrun</name>
+			<text>Vaelion Duskrun can&apos;t be blocked by creatures with power 3 or lower.
+{U}{B}, discard Vaelion Duskrun: Target creature gains deathtouch.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/154.png" num="223">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Gnome Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Melanor Calafinde</name>
+			<text>Whenever one or more creatures you control deal combat damage to a player, that player discards a card. 
+{U}{B}, discard Melanor Calafinde: Tap target creature.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/155.png" num="198">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sacrifice Ritual</name>
+			<text>As an additional cost to cast this spell, sacrifice a nontoken creature.
+Create a 1/1 red Goblin creature token with haste, then draw two cards.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/156.png" num="211">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pale Orc</name>
+			<text>Haste
+Whenever this creature attacks, you may sacrifice another creature. If you do, this creature gets +X/+0 until end of turn, where X is the sacrificed creature&apos;s power.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/157.png" num="202">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Corrupted</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Necropolis Monk</name>
+			<text>Whenever another creature dies, you may exile that creature from its owner&apos;s graveyard. If you do, target opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/158.png" num="201">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Passing Rites</name>
+			<text>As an additional cost to cast this spell, exile a creature card from a graveyard.
+Draw two cards.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/159.png" num="203">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bardic Inspiration</name>
+			<text>Flash
+Enchant creature
+Enchanted creature gets +1/+1 and has ward {2}.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/160.png" num="171">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Valorous Inspiration</name>
+			<text>Flash
+Enchant creature
+Enchanted creature gets +3/+0 and has vigilance.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/161.png" num="224">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tassarhallian Inventor</name>
+			<text>Artifact spells you cast cost {1} less to cast.
+Whenever you draw your second card each turn, you may attach target equipment you control to target creature you control.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/162.png" num="220">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Gnome</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leorio&apos;s Blueprints</name>
+			<text>Whenever you draw your second card each turn, create a 1/1 colorless Construct artifact creature token.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/163.png" num="195">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shadow Hunters</name>
+			<text>When this creature enters, mill three cards.
+{1}{B}{G}: Return this creature from your graveyard to the battlefield tapped. Activate only if a land card was put into your graveyard this turn.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/164.png" num="216">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Corrupted</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Search for the Brightstone</name>
+			<text>As an additional cost to cast this spell, sacrifice a land.
+Return target permanent card with mana value 4 or less from your graveyard to your hand. Create two Treasure tokens.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/165.png" num="212">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Knights of the Vigil</name>
+			<text>Convoke, vigilance
+{1}: Another target tapped creature you control gains indestructible until end of turn. Activate only once each turn.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/166.png" num="193">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reinforcements</name>
+			<text>Look at the top four cards of your library. You may reveal up to two creature cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.
+Creatures you control get +1/+0 until end of turn for each creature card revealed this way.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/167.png" num="204">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>March to Ghor&apos;Khan</name>
+			<text>You may tap any number of untapped creatures you control.
+Tapped creatures you control gain first strike until end of turn.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/168.png" num="197">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Army of Kelm&apos;s Keep</name>
+			<text>Convoke
+This creature gets +1/+1 for each other tapped creature you control.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/169.png" num="168">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rune of Protection</name>
+			<text>When Rune of Protection enters, scry 1, then draw a card.
+{T}{1}: Target creature you control gets +0/+3 and gains ward {2} until end of turn.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/170.png" num="209">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Rune</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rune of Potency</name>
+			<text>When Rune of Potency enters, scry 1, then draw a card.
+{T}{1}: Target creature you control gets +3/+0 and gains trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/171.png" num="208">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Rune</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Banner of Alfarun</name>
+			<text>At the beginning of combat on your turn, choose one —
+• Target creature gains +1/+1 and indestructible until the end of turn.
+• Draw a card and gain 1 life.
+• Return target instant or sorcery card with mana value 1 or less from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/172.png" num="170">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Everemphest</name>
+			<text>Equipped creature gets +2/+1 and has trample.
+Whenever equipped creature attacks, Everemphest deals damage equal to the number of lands you control to target creature defending player controls.
+Equip {3}
+Equip Orc {1}</text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/173.png" num="185">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Seraphis Moonward</name>
+			<text>Other heroes you control have Ward—discard a card.
+Whenever one or more heroes you control deal combat damage to a player, draw a card.</text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/174.png" num="213">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sermon of Leadership</name>
+			<text>Flash. Enchant creature.
+When Sermon of Leadership enters, you may tap or untap any number of target legendary creatures.
+Enchanted creature gets +3/+3 and has Vigilance as long as you control it.
+Enchanted creature gets -3/-0 and loses all abilities as long as you don&apos;t control it.</text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/175.png" num="214">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grand Master Azrael</name>
+			<text>First strike. Menace.
+Whenever a creature cards is exiled from a graveyard, put a +1/+1 counter on Grand Master Azrael.
+As long as there are no creature cards in your graveyard, other creatures you control get +1/+1.</text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/176.png" num="189">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Leader</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wondrous Workshop</name>
+			<text>Other artifacts you control have &quot;{T}, Sacrifice this artifact: Add {C}.&quot;
+{T}{1}, sacrifice another artifact: Search your library for an artifact card with mana value equal to 1 plus the sacrificed artifact&apos;s mana value, put it onto the battlefield tapped, then shuffle. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/177.png" num="226">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Call of the Alliance</name>
+			<text>When Call of the Alliance enters, you may search your library for a Warrior creature card, reveal it, put it into your hand, then shuffle.
+Untapped creatures you control get +1/+0 for each tapped creature you control.</text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/178.png" num="175">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Altar of the Stars</name>
+			<text>When Altar of Stars enters, scry 2 then draw a card.
+{X}: Put X target cards from your graveyard on the bottom of your library in any order. Activate only as a sorcery.
+{T}: Until end of turn, if you would draw a card, you may instead put the bottom card of your library into your hand.</text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/179.png" num="166">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Rune</type>
+				<maintype>Artifact</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kaela, Master of Excavations</name>
+			<text>{T}, sacrifice a land: Create two Treasure tokens.
+Other dwarves you control have &quot;{T}: Mill two cards.&quot;</text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/180.png" num="192">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dwarf Leader</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tharzog, the Webmaker</name>
+			<text>Menace
+{1}, sacrifice another nontoken creature: Create a 1/1 red Goblin creature token with haste.
+Whenever Tharzog, the Webmaker attacks, goblins you control get +1/+0 until end of turn.</text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/181.png" num="221">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Orc Leader</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CA04</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/182.png" num="230">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA02</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/183.png" num="228">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA01</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/184.png" num="227">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA06</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/185.png" num="232">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UA01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/186.png" num="233">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UA02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/187.png" num="234">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA05</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/188.png" num="231">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA03</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/189.png" num="229">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UA03</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/190.png" num="235">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UA04</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/191.png" num="236">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CL01</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/192.png" num="237">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL02</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/193.png" num="238">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL03</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/194.png" num="239">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL05</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/195.png" num="241">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CL04</name>
+			<text></text>
+			<set rarity="common" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/196.png" num="240">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/197.png" num="242">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RX01</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/198.png" num="6">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RX02</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/199.png" num="7">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RX03</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/200.png" num="8">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RX04</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/201.png" num="9">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RX05</name>
+			<text></text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/202.png" num="10">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UX02</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/203.png" num="12">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UX01</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/204.png" num="11">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UX04</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/205.png" num="14">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UX03</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/206.png" num="13">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UX05</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/207.png" num="15">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MX01</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/208.png" num="1">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MX03</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/209.png" num="3">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MX02</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/210.png" num="2">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MX04</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/211.png" num="4">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MX05</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/212.png" num="5">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bento, Inspiring Combatant</name>
+			<text>Vigilance
+When Bento, Inspiring Combatant enters, look at the top five cards of your library. You may reveal an Aura card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Whenever you enchant a creature you control, put a +1/+1 counter on that creature. Whenever you enchant a creature an opponent controls, draw a card.</text>
+			<set rarity="mythic" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/213.png" num="172">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Gnome Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ignatius, Lunar Paragon</name>
+			<text>Flying, lifelink
+Other creatures you control have ward {X}, where X is the amount of life you gained this turn.
+At the beginning of your end step, if you gained 5 or more life this turn, draw a card.</text>
+			<set rarity="mythic" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/214.png" num="191">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Angel Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kogan, Vulture King</name>
+			<text>Haste
+Landfall — Deal 1 damage to any target.
+Whenever Kogan, Vulture King attacks, you may put a land card from your hand onto the battlefield tapped.</text>
+			<set rarity="mythic" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/215.png" num="194">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Orc Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Durgrim, Runic Sage</name>
+			<text>Ward {1}
+If you would scry or surveil one or more cards, scry or surveil that many cards plus 1 instead.
+Rune spells you cast can&apos;t be countered.
+{T}: Scry 1 or Surveil 1.</text>
+			<set rarity="mythic" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/216.png" num="183">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dwarf Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Robermir, Fat and Fast</name>
+			<text>First strike
+As long as there are no creature cards in your graveyard, Robermir, Fat and Fast has double strike.
+At the beginning of combat on your turn, you may exile up to two creature cards from your graveyard. Robermir gets +1/+0 until end of turn for each card exiled this way.</text>
+			<set rarity="mythic" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/217.png" num="207">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cili, Rogue Crafter</name>
+			<text>Cili, Rogue Crafter gets +1/+0 for each artifact you control.
+Whenever Cili deals combat damage to a player, draw a card.
+Whenever you draw your second card each turn, you may cast an artifact spell from any graveyard, and you may spend mana as though it were mana of any color to cast that spell.</text>
+			<set rarity="mythic" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/218.png" num="177">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lord Protector Dunhold</name>
+			<text>Vigilance
+At the beginning of combat on your turn, each warrior you control gains vigilance until end of turn. Each warrior you control that already had vigilance gains haste until end of turn instead.
+Whenever you cast a creature spell using convoke, that creature enters the battlefield with a +1/+1 counter on it for each creature that convoked it.</text>
+			<set rarity="mythic" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/219.png" num="196">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Leader</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shadow Dragon</name>
+			<text>Flying
+Shadow Dragon costs {1} less to cast for each land card put into your graveyard this turn.
+You may cast Shadow Dragon from your graveyard if another creature died this turn. 
+{1}, discard Shadow Dragon: Mill three cards.</text>
+			<set rarity="mythic" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/220.png" num="215">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Shadow Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4BG</manacost>
+				<cmc>6</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arrival of the Golden Dawn</name>
+			<text>Hero creatures your opponents control lose all abilities.
+Hero creatures you control can be blocked only by legendary creatures.
+Whenever one or more Hero creatures you control deal combat damage to a player, that player discards a card.</text>
+			<set rarity="mythic" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/221.png" num="169">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gorgath, Evil Warlord</name>
+			<text>Menace
+Whenever Gorgath, Evil Warlord attacks, you may sacrifice another creature. If you do, add an amount of {R} equal to that creature&apos;s power. Until end of turn, you don&apos;t lose this mana as steps and phases end.
+Whenever you sacrifice another permanent, deal 1 damage to each opponent.</text>
+			<set rarity="mythic" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/222.png" num="188">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Orc Leader</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Moonlight Blast</name>
+			<text>Exile target tapped nonland permanent. You gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/223.png" num="199">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Daylight</name>
+			<text>When this enchantment enters, exile each creature your opponent controls with toughness less than the amount of life you gained this turn.
+{T}: Target creature you control gains protection from black until end of turn.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/224.png" num="181">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Callum Starblade</name>
+			<text>Whenever Callum Starblade deals combat damage to a player, you may destroy target creature that player controls with toughness less than or equal to Callum Starblade&apos;s power.
+{U}{B}, discard Callum Starblade: Target creature gains +2/+0.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/225.png" num="176">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Renown at All Costs</name>
+			<text>Choose one —
+• Counter target noncreature spell.
+• Destroy target legendary creature.
+• Each player discard a card, then draw two cards.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/226.png" num="205">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Berzerker Battleaxe</name>
+			<text>When Berserker Battleaxe enters the battlefield, each player sacrifices a creature.
+Equipped creature gets +X/+0 and has trample, where X is the number of creatures that died this turn.
+Equip {1}</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/227.png" num="173">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blood Cauldron</name>
+			<text>Whenever a creature dies, put a blood counter on Blood Cauldron.
+{T}{1}, remove three blood counters from Blood Cauldron: Create three 1/1 red Goblin creature tokens.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/228.png" num="174">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dwarf Runemaster</name>
+			<text>Rune spells you cast cost {1} less to cast.
+{T}{1}: Draw a card, then discard a card.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/229.png" num="184">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Study of Ancient Runes</name>
+			<text>Search your library for a Rune card and reveal it, and/or return a Rune card from your graveyard to your hand. Put the revealed card into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/230.png" num="219">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crystal Dragon Egg</name>
+			<text>Defender
+Other enchanted creatures you control get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/231.png" num="179">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stories of Past Heroes</name>
+			<text>Choose one —
+• Return up to two target enchantment cards from your graveyard to your hand.
+• Return target legendary creature card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/232.png" num="218">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Conjure Vultures</name>
+			<text>Whenever a land enters the battlefield under your control, until end of turn, if a source you control would deal noncombat damage to a creature, it deals that much damage plus 1 instead.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/233.png" num="178">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sacred Rite Lizard</name>
+			<text>Flying
+Landfall — Deal 1 damage to each of up to X target creatures your opponents control, where X is the number of lands you control.
+Whenever a creature dealt noncombat damage by a source you control this turn dies, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/234.png" num="210">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fresh Ideas</name>
+			<text>You may untap target equipped creature you control. Draw two cards.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/235.png" num="187">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cunning Blades</name>
+			<text>Equipped creature gets +1/+0. As long as you control three or more other artifacts, it gets +2/+0 instead.
+Whenever you draw your second card each turn, equipped creature can&apos;t be blocked this turn.
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/236.png" num="180">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Death Comes to Us All</name>
+			<text>Until end of turn, whenever a creature is dealt damage, destroy that creature. At the beginning of the next end step, if two or more creatures died in combat this turn, you gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/237.png" num="182">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Retribution for the Gone</name>
+			<text>Exile a creature card from your graveyard. Destroy target nonland permanent with mana value equal or lower to the mana value of the card you exiled. Then if there are no creature cards in your graveyard, you gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/238.png" num="206">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Source of Corruption</name>
+			<text>Mill five cards. You may return a creature card and a land card from among the cards milled this way to your hand.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/239.png" num="217">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Apex Predator</name>
+			<text>Trample
+This creature gets +1/+1 for each land card in your graveyard.
+Whenever this creature attacks, mill two cards.</text>
+			<set rarity="uncommon" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/240.png" num="167">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Corrupted</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Undaril</name>
+			<text>Lifelink
+Whenever you scry or surveil one or more cards, put a +1/+1 counter on another target creature you control.
+Whenever one or more +1/+1 counters are put on another creature you control, you may draw a card. This ability triggers only once each turn.</text>
+			<set rarity="rare" picurl="https://lands-of-osdar-set/sets/OSD1-files/img/241.png" num="222">OSD1</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Angel Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
